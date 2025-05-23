@@ -165,11 +165,11 @@ endmodule
 
 ## Nclaunch Work Library Window
 
-![Screenshot 2025-05-21 163301](https://github.com/user-attachments/assets/4dc3ff0b-9533-4acd-98d2-e24df31eb513)
+![Simulation Result 2](https://github.com/Aishu-25/Design-and-Simulation-of-a-Booth-Multiplier-Using-Verilog-and-Cadence-nclaunch/blob/main/WhatsApp%20Image%202025-05-23%20at%2014.42.15_d3655b84.jpg?raw=true)
 
 ## Simulation Results
 
-![Screenshot 2025-05-21 163243](https://github.com/user-attachments/assets/e7e22fcd-2e89-478a-9ccf-321bf9d6a07c)
+![Simulation Result 1](https://github.com/Aishu-25/Design-and-Simulation-of-a-Booth-Multiplier-Using-Verilog-and-Cadence-nclaunch/blob/main/WhatsApp%20Image%202025-05-23%20at%2014.41.47_dfc82e65.jpg?raw=true)
 
 
 ## Results
